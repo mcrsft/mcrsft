@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ayden Delk 👋
 
-<!--
-**mcrsft/mcrsft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional passionate about system administration, networking, and cybersecurity.  
+Currently learning data science, Python, and Linux.  
 
-Here are some ideas to get you started:
+### 🔧 My Projects
+- 🖥️ [Personal Portfolio](https://aydendelk.com) — My CV/Portfolio website built with Jekyll and deployed on a VPS.
+- 🎮 [Xbox 360 RGH Guide](https://github.com/mcrsft/tiny-projects/tree/main/xbox360-rgh-guide) — My learning notes and experiments with Xbox 360 Reset Glitch Hack.
+- 📚 [SysAdmin Notes](https://github.com/mcrsft/sysadmin-notes) — A collection of technical notes for Linux, Windows, networking, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- 📖 Python for automation and data science
+- 🔐 Cybersecurity fundamentals
+- ☁️ Cloud administration with Microsoft 365 and Azure
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ayden-delk-0ab792368/)
+- [GitHub](https://github.com/mcrsft)
+
+Let's build and learn together!
